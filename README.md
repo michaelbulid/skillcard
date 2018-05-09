@@ -8,3 +8,6 @@
 名片上的文字颜色渐变，背景色渐变
 
 [http://jsbin.com/kenipoz/edit?html,css,output](http://jsbin.com/kenipoz/edit?html,css,output)
+
+1.222
+2.111
