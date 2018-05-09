@@ -4,9 +4,9 @@
 
 # task2.炫彩卡片背景
 名片上的文字颜色渐变，背景色渐变  [http://jsbin.com/kenipoz/edit?html,css,output](http://jsbin.com/kenipoz/edit?html,css,output)  
-  
-  
-  
+&emsp  
+&emsp  
+&emsp  
   
   
   
