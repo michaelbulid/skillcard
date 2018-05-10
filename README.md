@@ -1,9 +1,11 @@
 # task1.用百分比展示技能卡片
-点击链接访问jsbin上的demo  [http://output.jsbin.com/qavokoy](http://output.jsbin.com/qavokoy)
-
+点击链接访问jsbin上的demo  [http://output.jsbin.com/qavokoy](http://output.jsbin.com/qavokoy)  
 
 # task2.炫彩卡片背景
 名片上的文字颜色渐变，背景色渐变  [http://jsbin.com/kenipoz/edit?html,css,output](http://jsbin.com/kenipoz/edit?html,css,output)  
+
+# task3.炫彩卡片背景
+web开发三本书  [http://jsbin.com/ragebav/edit?html,css,output](http://jsbin.com/ragebav/edit?html,css,output)  
 
 
 
