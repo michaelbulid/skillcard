@@ -8,8 +8,9 @@
 web开发三本书  [http://jsbin.com/ragebav/edit?html,css,output](http://jsbin.com/ragebav/edit?html,css,output)  
 
 # task4.炫彩旋转loading
-方形旋转，延迟动画，渐变颜色  [http://jsbin.com/fihupok/edit?html,css,output](http://jsbin.com/fihupok/edit?html,css,output)  
-
+方形旋转，延迟动画，渐变颜色  [http://jsbin.com/fihupok/edit?html,css,output](http://jsbin.com/fihupok/edit?html,css,output)
+# task5.文本滑动隐藏动效 适用问答形式
+鼠标移动到问题上，问题左滑，出现答案  [http://jsbin.com/negopav/edit?html,css,output](http://jsbin.com/negopav/edit?html,css,output) 
 
 
 &emsp;  
